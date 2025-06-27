@@ -1,6 +1,6 @@
 import React from "react";
 import Navbar from "./components/Navbar.jsx";
-import Pictures from "./components/pictures.jsx";
+import Pictures from "./components/Pictures.jsx";
 import Content from "./components/Content.jsx";
 import PartnerPrograms from "./components/PartnerPrograms.jsx";
 import GetStarted from "./components/GetStarted.jsx";
