@@ -1,5 +1,5 @@
 import React from "react";
-import { pictures } from "../assets/pictures";
+import { pictures } from "../assets/pic";
 const Pictures = () => {
   return (
     <div
