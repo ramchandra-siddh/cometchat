@@ -285,7 +285,7 @@ const Footer = () => {
       {/* ----- Footer Bottom ----- */}
       <div className="flex flex-col-reverse md:flex-row justify-between items-center text-gray-400 text-xs mt-6 gap-4">
         <div className="flex  md:flex-row items-center gap-4">
-          <p>© 2025 © Ramchandra</p>
+          <p>2025 © Ramchandra</p>
           <ul className="flex gap-4">
             <li>Terms of Use</li>
             <li>Privacy Policy</li>
