@@ -1,0 +1,35 @@
+@keyframes orbit1 {
+  0% {
+    transform: rotate(0deg) translateX(80px) rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg) translateX(80px) rotate(-360deg);
+  }
+}
+
+@keyframes orbit2 {
+  0% {
+    transform: rotate(0deg) translateX(128px) rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg) translateX(128px) rotate(-360deg);
+  }
+}
+
+@keyframes orbit3 {
+  0% {
+    transform: rotate(0deg) translateX(176px) rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg) translateX(176px) rotate(-360deg);
+  }
+}
+
+@keyframes orbit4 {
+  0% {
+    transform: rotate(0deg) translateX(224px) rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg) translateX(224px) rotate(-360deg);
+  }
+}

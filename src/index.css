@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+/* index.css */
+.all-pointer li {
+  @apply cursor-pointer;
+}
