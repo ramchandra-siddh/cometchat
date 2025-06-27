@@ -1,8 +1,8 @@
 import { useState } from "react";
 import { ChevronDown, ChevronUp } from "lucide-react";
-import Solid1 from "../assets/solid1.png";
-import Solid2 from "../assets/solid2.png";
-import Solid3 from "../assets/solid3.png";
+import Solid1 from "../assets/Solid1.png";
+import Solid2 from "../assets/Solid2.png";
+import Solid3 from "../assets/Solid3.png";
 
 const faqs = [
   {
